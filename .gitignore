@@ -126,3 +126,4 @@ dmypy.json
 
 # Project specific
 examples/example_data/outputs
+londinium_network_test.ipynb
